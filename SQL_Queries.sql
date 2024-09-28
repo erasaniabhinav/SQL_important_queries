@@ -1,7 +1,3 @@
-/****************************************/
-/*   30 Simple SQL Interview Queries    */
-/****************************************/
-
 /*1. Delete table Employee, Department and Company.*/
 DROP TABLE IF EXISTS Employee;
 DROP TABLE IF EXISTS Department;
